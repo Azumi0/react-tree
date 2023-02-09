@@ -1,0 +1,13 @@
+{
+  "description": "Tree Demo based on  react-window vertical FixedSizeList",
+  "main": "src/index.js",
+  "dependencies": {
+    "memoize-one": "5.0.4",
+    "react": "^17",
+    "react-dom": "^16",
+    "react-virtualized-auto-sizer": "1.0.2",
+    "react-window": "^1"
+  },
+  "keywords": [],
+  "name": "a-quick-react-tree-component-based-on-react-window"
+}
